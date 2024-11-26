@@ -1,0 +1,11 @@
+/home/unosee/Documents/icp-101-rust-boilerplate/target/wasm32-unknown-unknown/release/deps/libcrc32fast-8653d7bab703d8f7.rmeta: /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/lib.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/baseline.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/combine.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/specialized/mod.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/table.rs
+
+/home/unosee/Documents/icp-101-rust-boilerplate/target/wasm32-unknown-unknown/release/deps/libcrc32fast-8653d7bab703d8f7.rlib: /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/lib.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/baseline.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/combine.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/specialized/mod.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/table.rs
+
+/home/unosee/Documents/icp-101-rust-boilerplate/target/wasm32-unknown-unknown/release/deps/crc32fast-8653d7bab703d8f7.d: /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/lib.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/baseline.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/combine.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/specialized/mod.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/table.rs
+
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/lib.rs:
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/baseline.rs:
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/combine.rs:
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/specialized/mod.rs:
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/crc32fast-1.3.2/src/table.rs:

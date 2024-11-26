@@ -1,0 +1,11 @@
+/home/unosee/Documents/icp-101-rust-boilerplate/target/wasm32-unknown-unknown/release/deps/libserde_bytes-caf3528b5c89e222.rmeta: /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/lib.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/bytes.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/de.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/ser.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/unosee/Documents/icp-101-rust-boilerplate/target/wasm32-unknown-unknown/release/deps/libserde_bytes-caf3528b5c89e222.rlib: /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/lib.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/bytes.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/de.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/ser.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/unosee/Documents/icp-101-rust-boilerplate/target/wasm32-unknown-unknown/release/deps/serde_bytes-caf3528b5c89e222.d: /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/lib.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/bytes.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/de.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/ser.rs /home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/bytebuf.rs
+
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/lib.rs:
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/bytes.rs:
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/de.rs:
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/ser.rs:
+/home/unosee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.12/src/bytebuf.rs:
